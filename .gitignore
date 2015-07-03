@@ -1,1 +1,3 @@
-data/
+data/*.csv
+data/images_test_rev1
+data/images_training_rev1
